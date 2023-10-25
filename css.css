@@ -1,0 +1,126 @@
+
+.flex-container{
+    background-color:  rgb(115, 146, 212);
+    display:flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    height: 70px;
+    padding: 15px;
+    margin: -8px;
+    
+}
+.flex-container div2{
+
+  display:flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-size: 45px;
+    margin-left: 450px;
+    color:rgb(49, 48, 60);
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 2px;
+    margin-top: -10px;
+    font-style: inherit;
+    font-weight: bold;
+
+    font-weight: 800;
+}
+
+.texto{
+  display:flex;
+  flex-wrap: nowrap;
+    color: white;
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: helvetica;
+    margin-left: 30px;
+    margin-top: -50px;
+    text-align: justify;
+}
+
+.fonteesq{
+  display:flex;
+  flex-wrap: nowrap;
+    color:  rgb(115, 146, 212);
+    margin-right: 30px;
+    font-size: 50px;
+    font-family: helvetica;
+    margin-left: 30px;
+    font-weight: 900;
+}
+
+.imgesq{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 300px;
+    width: 700px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border: 5px solid  rgb(115, 146, 212);
+}
+
+.home{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 50px;
+    width: 100px;
+    background-color:  rgb(115, 146, 212);
+    border-radius: 100px;
+    margin-left: 9px;
+    margin-top: -3px;
+}
+
+.home:hover{
+  display:flex;
+  flex-wrap: nowrap;
+    background-color:  rgb(94, 123, 185);
+}
+
+.botão{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 30px;
+    width: 30px;
+   
+}
+
+.imgdir{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 300px;
+    width: 700px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border: 5px solid  rgb(115, 146, 212);
+}
+
+.fontedir{
+  display:flex;
+  flex-wrap: nowrap;
+    color:  rgb(115, 146, 212);
+    margin-right: 30px;
+    font-size: 50px;
+    font-family: helvetica;
+    margin-left: 740px;
+    font-weight: 900;
+}
+
+.backendesq{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 300px;
+    width: 700px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border: 5px solid rgb(115, 146, 212);
+}
+
+.backenddir{
+  display:flex;
+  flex-wrap: nowrap;
+    height: 400px;
+    width: 730px;
+    margin-left: 460px;
+    margin-top: 50px;
+    border: 5px solid rgb(115, 146, 212);
+}
